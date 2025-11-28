@@ -1,0 +1,14 @@
+# venv
+.venv/
+venv/
+
+# python cache
+__pycache__/
+
+# logs
+*.log
+
+# data / models (si tu ne veux pas versionner)
+data/
+models/
+lightning_logs/
